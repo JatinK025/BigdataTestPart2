@@ -8,6 +8,7 @@
 import numpy as np
 import pickle as pickle
 import gym
+from datetime import datetime
 
 # hyperparameters
 H = 800 # number of hidden layer neurons
